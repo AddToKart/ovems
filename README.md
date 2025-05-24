@@ -1,4 +1,4 @@
-# OVEMS - Online Vehicle Management System
+# OVEMS - Online Voting Management System
 
 A full-stack web application for vehicle management built with React (frontend) and Node.js/Express (backend) with MySQL database.
 
